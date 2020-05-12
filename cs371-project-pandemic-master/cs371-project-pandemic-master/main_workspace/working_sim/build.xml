@@ -1,0 +1,32 @@
+<project default="jar">
+	<!-- Library Path (Change this to the path to libraries in your folder)-->
+	<property name="fx.dir" value="/Users/longtran/Library/javafx-sdk-11.0.2/lib"/>
+	<property name="gson.dir" value="/Users/longtran/Workspace/cs371-project-pandemic/main_workspace/working_sim/external_libs/gson-2.8.6.jar"/>
+
+	<property name="src.dir" value="src"/>
+	<property name="jar.name" value="PandemicSim"/>
+	<property name="out.name" value="out"/>
+
+	<target name="compile">
+		<mkdir dir="${out.name}"/>
+		<javac destdir="${out.name}" srcdir="${src.dir}" includeantruntime="false">
+			<compilerarg line="--module-path ${fx.dir} --add-modules javafx.controls,javafx.graphics,javafx.base -cp ${gson.dir} -d ./out/"/>
+		</javac>
+	</target>
+
+	<target name="jar" depends="compile">
+		<jar destfile="${jar.name}.jar" basedir="${out.name}" manifest="MANIFEST.MF"/>
+		<antcall target="clean"/>
+	</target>
+
+	<target name="clean">
+		<delete dir="${out.name}"/>
+	</target>
+
+	<target name="run" depends="jar">
+		<java jar="${jar.name}.jar" fork="true"> 
+			<jvmarg line="--module-path ${fx.dir} --add-modules javafx.controls,javafx.graphics,javafx.base"/>
+		</java>
+	</target>
+
+</project>

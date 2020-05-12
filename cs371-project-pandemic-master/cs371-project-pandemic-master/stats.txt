@@ -1,0 +1,77 @@
+User statistics, generated on 2020-05-11 11:00:30.306237
+------
+User: ltran1612        commits:20       pullrequests:8        othermerges:4       
+   filetype:.md        added:75         removed:29
+------
+User: Thomas Sanchez   commits:4        pullrequests:2        othermerges:1       
+   filetype:.md        added:2          removed:2
+------
+User: Matt Bundas      commits:34       pullrequests:0        othermerges:3       
+   filetype:no-ext     added:37         removed:0
+   filetype:.json      added:1          removed:0
+   filetype:.prefs     added:14         removed:0
+   filetype:.css       added:1          removed:0
+   filetype:.fxbuild   added:8          removed:0
+   filetype:.txt       added:220        removed:14
+   filetype:.java      added:2583       removed:495
+   binfile:.docx       number:2
+   binfile:.jpg        number:5
+   binfile:.pdf        number:1
+   binfile:.png        number:1
+------
+User: Tom              commits:7        pullrequests:0        othermerges:0       
+   filetype:no-ext     added:35         removed:0
+   filetype:.prefs     added:12         removed:0
+   filetype:.java      added:1132       removed:44
+   filetype:.fxbuild   added:8          removed:0
+   filetype:.css       added:2          removed:0
+   binfile:.class      number:2
+   binfile:no-ext      number:3
+   binfile:.PNG        number:1
+------
+User: Santiago         commits:3        pullrequests:0        othermerges:0       
+   filetype:.java      added:116        removed:76
+------
+User: Angel C.         commits:1        pullrequests:0        othermerges:0       
+   filetype:.java      added:129        removed:10
+------
+User: angelcamach0     commits:5        pullrequests:0        othermerges:0       
+   filetype:.java      added:127        removed:11
+   filetype:.svg       added:140        removed:0
+   binfile:.png        number:6
+------
+User: santiflo27       commits:13       pullrequests:4        othermerges:2       
+   filetype:.json      added:0          removed:1
+   filetype:.md        added:30         removed:28
+   filetype:.java      added:251        removed:222
+   filetype:.fxbuild   added:8          removed:0
+   filetype:.txt       added:9          removed:17
+------
+User: Jonathan Cook    commits:1        pullrequests:0        othermerges:0       
+   filetype:.txt       added:54         removed:0
+------
+User: bundasma         commits:19       pullrequests:9        othermerges:2       
+   filetype:.json      added:0          removed:3
+   filetype:.md        added:46         removed:6
+   filetype:.txt       added:0          removed:98
+------
+User: Long Tran        commits:35       pullrequests:0        othermerges:0       
+   filetype:no-ext     added:11         removed:3
+   filetype:.prefs     added:3          removed:0
+   filetype:.java      added:1466       removed:1540
+   binfile:.class      number:7
+------
+User: ltran            commits:80       pullrequests:0        othermerges:2       
+   filetype:no-ext     added:1          removed:0
+   filetype:.json      added:10         removed:7
+   filetype:.MF        added:3          removed:0
+   filetype:.txt       added:21         removed:17
+   filetype:.xml       added:32         removed:0
+   filetype:.java      added:4044       removed:3442
+   binfile:.jpg        number:1
+   binfile:.jar        number:1
+------
+User: Angel C          commits:19       pullrequests:2        othermerges:2       
+   filetype:.json      added:1          removed:1
+   filetype:.java      added:2280       removed:2164
+------

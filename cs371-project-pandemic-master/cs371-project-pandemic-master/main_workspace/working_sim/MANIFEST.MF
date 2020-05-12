@@ -1,0 +1,3 @@
+Manifest-Version: 1.0
+Main-Class: Main
+Class-Path: /Users/longtran/Workspace/cs371-project-pandemic/main_workspace/working_sim/external_libs/javafx-sdk-11.0.2/lib/javafx.base.jar /Users/longtran/Workspace/cs371-project-pandemic/main_workspace/working_sim/external_libs/javafx-sdk-11.0.2/lib/javafx.controls.jar /Users/longtran/Workspace/cs371-project-pandemic/main_workspace/working_sim/external_libs/javafx-sdk-11.0.2/lib/javafx.graphics.jar  /Users/longtran/Workspace/cs371-project-pandemic/main_workspace/working_sim/external_libs/gson-2.8.6.jar
